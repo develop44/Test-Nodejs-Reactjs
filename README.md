@@ -26,7 +26,7 @@ const dbuser = "utilisateur_de_ma_base_de_données";
 ```Shell
 npm install
 ```
-4. Puis lancer le backend avec la commande suivantes:
+4. Puis lancer le backend avec la commande suivante:
 ```Shell
 npm start
 ```
