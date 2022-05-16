@@ -41,6 +41,6 @@ npm install
 npm start
 ```
 
->Si tout c'est bien passer alors l'application roule et vous pourrez  visiter 
+>Si tout c'est bien passé alors l'application roule et vous pourrez  visiter 
 [localhost:3000](http://localhost:3000/ "Localhost")
 
