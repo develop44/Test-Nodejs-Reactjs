@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login{
+  background: linear-gradient(to right, #ee7724,#d8363a,#dd3675,#b44593);
+}
+.login-text{
+  background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
+
+
+.glow {
+  color: #fff;
+  animation: glow 2s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 2px #fff, 0 0 5px #fff, 0 0 7px #f0d6a5, 0 0 10px #f0d6a5, 0 0 12px #f0d6a5, 0 0 15px #f0d6a5, 0 0 35px #f0d6a5;
+  }
+  
+  to {
+    text-shadow: 0 0 10px #fff, 0 0 15px #f0d6a5, 0 0 20px #f0d6a5, 0 0 25px #f0d6a5, 0 0 30px #f0d6a5, 0 0 35px #f0d6a5, 0 0 40px #f0d6a5;
+  }
+}
+
+body{
+  background-color: #CBD5E1 !important;
+}
