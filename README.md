@@ -2,7 +2,7 @@
 
 L'installation de l'application:
 
-1- git clone https://github.com/develop44/Test-Nodejs-Reactjs.git
+1- git clone https://github.com/develop44/Test-Nodejs-Reactjs.git 
 2- Taper la commande "npm install" dans les deux dossiers Frontend et backend pour installer le dossier node_modules.
 3- Taper la commande "npm start" dans les deux dossiers frontend et backend
 4- Taper localhost:3000 dans le browser.
