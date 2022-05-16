@@ -44,4 +44,3 @@ npm start
 >Si tout c'est bien passer alors l'application roule et vous pourrez  visiter 
 [localhost:3000](http://localhost:3000/ "Localhost")
 
->>>>>>> fde681fdbb0884ad82a624814d3d20358770fa4e
