@@ -15,7 +15,7 @@
 git clone https://github.com/develop44/Test-Nodejs-Reactjs.git
 ```
 
-2. Créer une base de donnée pour l'application, en suite allez dans le répertoire backend puis configurer le fichier config.js avec les paramètres de votre base de données. 
+2. Créer une base de données pour l'application, en suite allez dans le répertoire backend puis configurer le fichier config.js avec les paramètres de votre base de données. 
 les lignes à configurer sont les suivantes:
 ```JavaScript
 const dbname = "nom_de_ma_base_de_données";
